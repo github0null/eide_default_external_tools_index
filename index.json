@@ -1,0 +1,12 @@
+[
+    {
+        "id": "t_head_csky_gcc_v6",
+        "name": "T-HEAD C-SKY Tools V3.10.29 Minilibc abiv2 B20210423 6.3.0",
+        "resources": {
+            "win32": {
+                "url": "https://em-ide.com/resource/csky-elfabiv2-tools-mingw-minilibc-20210423.7z",
+                "bin_dir": "csky-elfabiv2-tools-mingw-minilibc-20210423/bin"
+            }
+        }
+    }
+]
