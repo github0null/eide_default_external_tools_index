@@ -22,7 +22,7 @@
     },
     {
         "id": "gcc_arm_v7_3_1",
-        "name": "GNU Tools for Arm Embedded Processors 7-2018-q2-update 7.3.1 20180622 (arm-none-eabi-gcc)",
+        "name": "GNU Arm Embedded Toolchain 7-2018-q2-update 7.3.1 (arm-none-eabi-gcc)",
         "resources": {
             "win32": {
                 "url": "https://armkeil.blob.core.windows.net/developer/Files/downloads/gnu-rm/7-2018q2/gcc-arm-none-eabi-7-2018-q2-update-win32.zip",
