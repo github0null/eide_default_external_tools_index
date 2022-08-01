@@ -5,6 +5,7 @@
         "resources": {
             "win32": {
                 "url": "https://em-ide.com/resource/csky-elfabiv2-tools-mingw-minilibc-20210423.7z",
+                "zip_type": "7z",
                 "bin_dir": "csky-elfabiv2-tools-mingw-minilibc-20210423/bin"
             }
         }
