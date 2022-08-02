@@ -29,5 +29,16 @@
                 "zip_type": "zip"
             }
         }
+    },
+    {
+        "id": "silab_cmder",
+        "name": "Silab Studio Simplicity Commander 1.13.1",
+        "resources": {
+            "win32": {
+                "url": "https://github0null.io/resources/Silab_Studio_Commander_win32_x64_1v13p1b1154.7z",
+                "zip_type": "7z",
+                "bin_dir": "Simplicity_Commander"
+            }
+        }
     }
 ]
