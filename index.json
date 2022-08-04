@@ -51,5 +51,15 @@
                 "bin_dir": "silab_bgbuilder_v1.7"
             }
         }
+    },
+    {
+        "id": "gputils_v152",
+        "name": "GNU PIC Utilities v1.5.2 (gputils) (pic)",
+        "resources": {
+            "win32": {
+                "url": "https://em-ide.com/resource/gputils-1.5.2.7z",
+                "zip_type": "7z"
+            }
+        }
     }
 ]
