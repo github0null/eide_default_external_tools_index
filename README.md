@@ -18,6 +18,7 @@ export interface ExternalUtilToolIndexDef {
 	name: string; // readable name
 
 	resources: {
+		
 		// resource nodejs platform, like: win32, linux ...
 		[platform: string]: {
 
