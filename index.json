@@ -1,11 +1,23 @@
 [
     {
         "id": "python27",
-        "name": "Python 2.7 Environment",
+        "name": "Python 2.7.18 Environment (For VSCode)",
         "resources": {
             "win32": {
                 "url": "https://github0null.io/resources/python27.7z",
-                "zip_type": "7z"
+                "zip_type": "7z",
+                "bin_dir": "python27"
+            }
+        }
+    },
+    {
+        "id": "python36",
+        "name": "Python 3.6.0 Environment (For VSCode)",
+        "resources": {
+            "win32": {
+                "url": "https://github0null.io/resources/python-3.6.0-embed-win32.7z",
+                "zip_type": "7z",
+                "bin_dir": "python-3.6.0-embed-win32"
             }
         }
     },
