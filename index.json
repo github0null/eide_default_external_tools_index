@@ -1,6 +1,6 @@
 [
     {
-        "id": "python27",
+        "id": "python_2_7",
         "name": "Python 2.7.18 Environment (For VSCode)",
         "resources": {
             "win32": {
@@ -11,7 +11,7 @@
         }
     },
     {
-        "id": "python36",
+        "id": "python_3_6",
         "name": "Python 3.6.0 Environment (For VSCode)",
         "resources": {
             "win32": {
