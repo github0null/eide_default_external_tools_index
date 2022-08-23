@@ -4,7 +4,7 @@
         "name": "Python 2.7.18 Environment (For VSCode)",
         "resources": {
             "win32": {
-                "url": "https://github0null.io/resources/python27.7z",
+                "url": "https://github0null.io/resources/python27-win32.7z",
                 "zip_type": "7z",
                 "bin_dir": "python27"
             }
