@@ -58,7 +58,8 @@
         "resources": {
             "win32": {
                 "url": "https://armkeil.blob.core.windows.net/developer/Files/downloads/gnu-rm/10-2020q4/gcc-arm-none-eabi-10-2020-q4-major-win32.zip",
-                "zip_type": "zip"
+                "zip_type": "zip",
+                "bin_dir": "gcc-arm-none-eabi-10-2020-q4-major"
             }
         }
     },
