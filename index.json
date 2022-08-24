@@ -53,11 +53,11 @@
         }
     },
     {
-        "id": "gcc_arm_v10_2_1",
-        "name": "GNU Arm Embedded Toolchain 10-2020-q4-major 10.2.1 (arm-none-eabi-gcc)",
+        "id": "gcc_arm_v9_2_1",
+        "name": "GNU Arm Embedded Toolchain 9-2019-q4-major 9.2.1 (arm-none-eabi-gcc)",
         "resources": {
             "win32": {
-                "url": "https://github0null.io/resources/gcc-arm-none-eabi-10-2020-q4-major.7z",
+                "url": "https://github0null.io/resources/gcc_arm_v9.2.1.7z",
                 "zip_type": "7z"
             }
         }
