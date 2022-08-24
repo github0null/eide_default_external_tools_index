@@ -53,6 +53,16 @@
         }
     },
     {
+        "id": "gcc_arm_v10_2_1",
+        "name": "GNU Arm Embedded Toolchain 10-2020-q4-major 10.2.1 (arm-none-eabi-gcc)",
+        "resources": {
+            "win32": {
+                "url": "https://armkeil.blob.core.windows.net/developer/Files/downloads/gnu-rm/10-2020q4/gcc-arm-none-eabi-10-2020-q4-major-win32.zip",
+                "zip_type": "zip"
+            }
+        }
+    },
+    {
         "id": "silab_cmder",
         "name": "Silab Studio Simplicity Commander 1.13.1 (silab_flasher)",
         "resources": {
