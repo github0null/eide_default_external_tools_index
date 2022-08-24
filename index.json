@@ -63,13 +63,12 @@
         }
     },
     {
-        "id": "xpack_gcc_arm_v11_2_1",
-        "name": "xPack GNU Arm Embedded GCC v11.2.1-1.2 (xpack-arm-none-eabi-gcc-11.2.1-1.2)",
+        "id": "xpack_gcc_arm_v10_3_1",
+        "name": "xPack GNU Arm Embedded GCC v10.3.1-2.3 (xpack-arm-none-eabi-gcc-10.3.1-2.3)",
         "resources": {
             "win32": {
-                "url": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v11.2.1-1.2/xpack-arm-none-eabi-gcc-11.2.1-1.2-win32-x64.zip",
-                "zip_type": "zip",
-                "bin_dir": "xpack-arm-none-eabi-gcc-11.2.1-1.2"
+                "url": "https://cloud.github0null.io/api/v3/file/get/816/xpack-arm-none-eabi-gcc-10.3.1-2.3.7z?sign=q45K4AwgD8Bh-MisfCjT_YU8oR9BktJ09MNLrKfY5ms%3D%3A0",
+                "zip_type": "7z"
             }
         }
     },
