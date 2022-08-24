@@ -57,9 +57,29 @@
         "name": "GNU Arm Embedded Toolchain 10-2020-q4-major 10.2.1 (arm-none-eabi-gcc)",
         "resources": {
             "win32": {
-                "url": "https://armkeil.blob.core.windows.net/developer/Files/downloads/gnu-rm/10-2020q4/gcc-arm-none-eabi-10-2020-q4-major-win32.zip",
+                "url": "https://github0null.io/resources/gcc-arm-none-eabi-10-2020-q4-major.7z",
+                "zip_type": "7z"
+            }
+        }
+    },
+    {
+        "id": "gcc_arm_v10_2_1",
+        "name": "GNU Arm Embedded Toolchain 10-2020-q4-major 10.2.1 (arm-none-eabi-gcc)",
+        "resources": {
+            "win32": {
+                "url": "https://github0null.io/resources/gcc-arm-none-eabi-10-2020-q4-major.7z",
+                "zip_type": "7z"
+            }
+        }
+    },
+    {
+        "id": "xpack_gcc_arm_v11_2_1",
+        "name": "xPack GNU Arm Embedded GCC v11.2.1-1.2 (xpack-arm-none-eabi-gcc-11.2.1-1.2)",
+        "resources": {
+            "win32": {
+                "url": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v11.2.1-1.2/xpack-arm-none-eabi-gcc-11.2.1-1.2-win32-x64.zip",
                 "zip_type": "zip",
-                "bin_dir": "gcc-arm-none-eabi-10-2020-q4-major"
+                "bin_dir": "xpack-arm-none-eabi-gcc-11.2.1-1.2"
             }
         }
     },
