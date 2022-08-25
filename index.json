@@ -22,6 +22,17 @@
         }
     },
     {
+        "id": "mps430_gcc_v9_3_1",
+        "name": "Mitto Systems Limited - msp430-gcc 9.3.1.11 (msp430-elf-gcc)",
+        "resources": {
+            "win32": {
+                "url":"https://dr-download.ti.com/software-development/ide-configuration-compiler-or-debugger/MD-LlCjWuAbzH/9.3.1.2/msp430-gcc-9.3.1.11_win32.zip",
+                "zip_type": "zip",
+                "bin_dir": "msp430-gcc-9.3.1.11_win32"
+            }
+        }
+    },
+    {
         "id": "t_head_csky_gcc_v6",
         "name": "T-HEAD C-SKY Tools V3.10.29 Minilibc abiv2 B20210423 6.3.0 (csky-elfabiv2-gcc)",
         "resources": {
