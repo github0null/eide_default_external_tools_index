@@ -29,6 +29,8 @@ export interface ExternalUtilToolIndexDef {
 			bin_dir?: string; // bin dir relative path
 
 			detail?: string; // description
+			
+			post_install_cmd?: string; // shell command
 
 			win_drv_path?: { // win32 driver exe path
 				// arch: 'x86' or 'x64'
