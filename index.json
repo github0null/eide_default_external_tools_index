@@ -15,7 +15,7 @@
         "name": "Python 3.6.0 x86 Environment (For VSCode)",
         "resources": {
             "win32": {
-                "url": "https://cloud.github0null.io/api/v3/file/get/822/python36-win32.7z?sign=nNgDh7MBz5AZG2Er0xQKy195pILGPnmEqCmREQxHYrY%3D%3A0",
+                "url": "https://cloud.github0null.io/api/v3/file/get/824/python36-win32.7z?sign=z_xIdPc00e0jytMb1GGyUzb9336h0JFUthOeGgb2di0%3D%3A0",
                 "zip_type": "7z",
                 "bin_dir": "python36"
             }
