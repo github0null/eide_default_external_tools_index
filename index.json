@@ -1,5 +1,17 @@
 [
     {
+        "id": "jlink_dev_addon",
+        "name": "JLink Device Addon Tool. Add mcu support from cmsis package",
+        "resources": {
+            "win32": {
+                "url": "https://codeload.github.com/github0null/jlink-device-addon/zip/refs/tags/v0.0.1",
+                "zip_type": "zip",
+                "bin_dir": "jlink-device-addon-0.0.1",
+                "post_install_cmd": "cd jlink-device-addon-0.0.1 && zip -r9 jlink-device-addon.zip *"
+            }
+        }
+    },
+    {
         "id": "python_2_7",
         "name": "Python 2.7.18 x86 Environment (32 Bit) (Only Available In VSCode)",
         "resources": {
