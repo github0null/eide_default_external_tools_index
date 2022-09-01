@@ -1,7 +1,7 @@
 [
     {
         "id": "python_2_7",
-        "name": "Python 2.7.18 x86 Environment (For VSCode)",
+        "name": "Python 2.7.18 x86 Environment (32 Bit) (Only Available In VSCode)",
         "resources": {
             "win32": {
                 "url": "https://cloud.github0null.io/api/v3/file/get/825/python27-win32.7z?sign=r-050P73wJoM4olhWgTjWj5no42tlwLYRBCaleq3zL8%3D%3A0",
@@ -12,12 +12,12 @@
     },
     {
         "id": "python_3_6",
-        "name": "Python 3.6.0 x86 Environment (For VSCode)",
+        "name": "Python 3.6.0 x64 Environment (64 Bit) (Only Available In VSCode)",
         "resources": {
             "win32": {
-                "url": "https://cloud.github0null.io/api/v3/file/get/824/python36-win32.7z?sign=z_xIdPc00e0jytMb1GGyUzb9336h0JFUthOeGgb2di0%3D%3A0",
+                "url": "https://cloud.github0null.io/api/v3/file/get/826/python36-x64.7z?sign=jv3eCDT-DXJqbFmDCc8Dbuz3q1YC3RQuZm6KD_d8_BU%3D%3A0",
                 "zip_type": "7z",
-                "bin_dir": "python36"
+                "bin_dir": "python36-x64"
             }
         }
     },
