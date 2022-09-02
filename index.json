@@ -4,9 +4,9 @@
         "name": "JLink Device Addon Tool. Add mcu support from cmsis package",
         "resources": {
             "win32": {
-                "url": "https://codeload.github.com/github0null/jlink-device-addon/zip/refs/tags/v0.1.0",
+                "url": "https://codeload.github.com/github0null/jlink-device-addon/zip/refs/tags/v0.1.1",
                 "zip_type": "zip",
-                "bin_dir": "jlink-device-addon-0.1.0"
+                "bin_dir": "jlink-device-addon-0.1.1"
             }
         }
     },
