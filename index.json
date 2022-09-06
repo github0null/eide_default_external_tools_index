@@ -4,7 +4,7 @@
         "name": "JLink Device Addon Tool (Add chip support from cmsis package)",
         "resources": {
             "win32": {
-                "url": "https://codeload.github.com/github0null/jlink-device-addon/zip/refs/tags/v0.1.4",
+                "url": "https://cloud.github0null.io/api/v3/file/get/829/jlink-device-addon-0.1.4.zip?sign=QxnQKF-KmVgWPpZSJD31NxaPG4qwSw94KBvnQ-0dJBg%3D%3A0",
                 "zip_type": "zip",
                 "bin_dir": "jlink-device-addon-0.1.4",
                 "post_install_cmd": "cd jlink-device-addon-0.1.4 && bash ./setup.sh"
