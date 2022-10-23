@@ -8,6 +8,18 @@
                 "zip_type": "zip",
                 "bin_dir": "jlink-device-addon-0.1.5",
                 "post_install_cmd": "cd jlink-device-addon-0.1.5 && bash ./setup.sh"
+            },
+            "linux": {
+                "url": "https://cloud.github0null.io/api/v3/file/get/838/jlink-device-addon-0.1.5.zip?sign=QMha0l0gOWLn4mWD5CKYJlYXnMLm4dOpgiSXTfvPcXE%3D%3A0",
+                "zip_type": "zip",
+                "bin_dir": "jlink-device-addon-0.1.5",
+                "post_install_cmd": "cd jlink-device-addon-0.1.5 && bash ./setup.sh"
+            },
+            "darwin": {
+                "url": "https://cloud.github0null.io/api/v3/file/get/838/jlink-device-addon-0.1.5.zip?sign=QMha0l0gOWLn4mWD5CKYJlYXnMLm4dOpgiSXTfvPcXE%3D%3A0",
+                "zip_type": "zip",
+                "bin_dir": "jlink-device-addon-0.1.5",
+                "post_install_cmd": "cd jlink-device-addon-0.1.5 && bash ./setup.sh"
             }
         }
     },
