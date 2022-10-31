@@ -4,22 +4,22 @@
         "name": "JLink Device Addon Tool (Add chip support from cmsis package)",
         "resources": {
             "win32": {
-                "url": "https://cloud.github0null.io/api/v3/file/get/846/jlink-device-addon-0.1.7.zip?sign=vXzTKHqWKbD87hk7L1gcB-Ar00um9DzEl_y3ihsqSFU%3D%3A0",
+                "url": "https://cloud.github0null.io/api/v3/file/get/847/jlink-device-addon-0.1.8.zip?sign=uxS8dEUyjXnPPY1bObI8VKzlIY6EmwhBEATLRsou-2g%3D%3A0",
                 "zip_type": "zip",
-                "bin_dir": "jlink-device-addon-0.1.7",
-                "post_install_cmd": "cd jlink-device-addon-0.1.7 && bash ./setup.sh"
+                "bin_dir": "jlink-device-addon-0.1.8",
+                "post_install_cmd": "cd jlink-device-addon-0.1.8 && bash ./setup.sh"
             },
             "linux": {
-                "url": "https://cloud.github0null.io/api/v3/file/get/846/jlink-device-addon-0.1.7.zip?sign=vXzTKHqWKbD87hk7L1gcB-Ar00um9DzEl_y3ihsqSFU%3D%3A0",
+                "url": "https://cloud.github0null.io/api/v3/file/get/847/jlink-device-addon-0.1.8.zip?sign=uxS8dEUyjXnPPY1bObI8VKzlIY6EmwhBEATLRsou-2g%3D%3A0",
                 "zip_type": "zip",
-                "bin_dir": "jlink-device-addon-0.1.7",
-                "post_install_cmd": "cd jlink-device-addon-0.1.7 && bash ./setup.sh"
+                "bin_dir": "jlink-device-addon-0.1.8",
+                "post_install_cmd": "cd jlink-device-addon-0.1.8 && bash ./setup.sh"
             },
             "darwin": {
-                "url": "https://cloud.github0null.io/api/v3/file/get/846/jlink-device-addon-0.1.7.zip?sign=vXzTKHqWKbD87hk7L1gcB-Ar00um9DzEl_y3ihsqSFU%3D%3A0",
+                "url": "https://cloud.github0null.io/api/v3/file/get/847/jlink-device-addon-0.1.8.zip?sign=uxS8dEUyjXnPPY1bObI8VKzlIY6EmwhBEATLRsou-2g%3D%3A0",
                 "zip_type": "zip",
-                "bin_dir": "jlink-device-addon-0.1.7",
-                "post_install_cmd": "cd jlink-device-addon-0.1.7 && bash ./setup.sh"
+                "bin_dir": "jlink-device-addon-0.1.8",
+                "post_install_cmd": "cd jlink-device-addon-0.1.8 && bash ./setup.sh"
             }
         }
     },
