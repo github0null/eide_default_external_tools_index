@@ -46,6 +46,17 @@
         }
     },
     {
+        "id": "wch_riscv_gcc_8_2_0",
+        "name": "WCH xPack GNU RISC-V Embedded GCC 32-bit 8.2.0 (With WCH Libraries) (riscv-none-embed-gcc)",
+        "resources": {
+            "win32": {
+                "url": "https://cloud.github0null.io/api/v3/file/get/858/wch_riscv_8_2_0.7z?sign=rF8jK6urxPakr1PpsBvI9cNu_IsMBF50aYL1PufD9ns%3D%3A0",
+                "zip_type": "7z",
+                "bin_dir": "bin"
+            }
+        }
+    },
+    {
         "id": "mps430_gcc_v9_3_1",
         "name": "Mitto Systems Limited - msp430-gcc 9.3.1.11 (msp430-elf-gcc)",
         "resources": {
