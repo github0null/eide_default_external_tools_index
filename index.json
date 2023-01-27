@@ -63,7 +63,7 @@
             "win32": {
                 "url":"https://dr-download.ti.com/software-development/ide-configuration-compiler-or-debugger/MD-LlCjWuAbzH/9.3.1.2/msp430-gcc-9.3.1.11_win32.zip",
                 "zip_type": "zip",
-                "bin_dir": "msp430-gcc-9.3.1.11_win32"
+                "bin_dir": "msp430-gcc-9.3.1.11_win32/bin"
             }
         }
     },
