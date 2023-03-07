@@ -39,7 +39,7 @@
         "name": "Python 3.6.0 x64 Environment (64 Bit) (Only Available In VSCode)",
         "resources": {
             "win32": {
-                "url": "https://cloud.github0null.io/api/v3/file/get/826/python36-x64.7z?sign=jv3eCDT-DXJqbFmDCc8Dbuz3q1YC3RQuZm6KD_d8_BU%3D%3A0",
+                "url": "https://cloud.github0null.io/api/v3/file/get/867/python36-x64.7z?sign=bFt-ascqtohhYd2WEDBJhizMuOc8CZLhpsr4_RBWwRs%3D%3A0",
                 "zip_type": "7z",
                 "bin_dir": "python36-x64"
             }
