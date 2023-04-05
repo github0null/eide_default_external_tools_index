@@ -89,6 +89,26 @@
         }
     },
     {
+        "id": "gcc_arm_v4_9",
+        "name": "GNU Arm Embedded Toolchain 4_9-2015-q3-update 4.9 (arm-none-eabi-gcc)",
+        "resources": {
+            "win32": {
+                "url": "https://launchpad.net/gcc-arm-embedded/4.9/4.9-2015-q3-update/+download/gcc-arm-none-eabi-4_9-2015q3-20150921-win32.zip",
+                "zip_type": "zip"
+            }
+        }
+    },
+    {
+        "id": "gcc_arm_v5_4",
+        "name": "GNU Arm Embedded Toolchain 5_4-2016-q3-update 5.4 (arm-none-eabi-gcc)",
+        "resources": {
+            "win32": {
+                "url": "https://launchpad.net/gcc-arm-embedded/5.0/5-2016-q3-update/+download/gcc-arm-none-eabi-5_4-2016q3-20160926-win32.zip",
+                "zip_type": "zip"
+            }
+        }
+    },
+    {
         "id": "gcc_arm_v7_3_1",
         "name": "GNU Arm Embedded Toolchain 7-2018-q2-update 7.3.1 (arm-none-eabi-gcc)",
         "resources": {
