@@ -169,5 +169,15 @@
                 "zip_type": "7z"
             }
         }
+    },
+    {
+        "id": "cosmic_stm8",
+        "name": "COSMIC Software STM8 C Cross Compiler (Special Edition) V4.5.5",
+        "resources": {
+            "win32": {
+                "url": "https://cloud.github0null.io/api/v3/file/get/877/CXSTM8.7z?sign=gUgIVhPrgeAZqeD5mocejPvZ_NKtm8OeQb0n3sVNwjM%3D%3A0",
+                "zip_type": "7z"
+            }
+        }
     }
 ]
