@@ -176,7 +176,22 @@
         "resources": {
             "win32": {
                 "url": "https://cloud.github0null.io/api/v3/file/get/877/CXSTM8.7z?sign=gUgIVhPrgeAZqeD5mocejPvZ_NKtm8OeQb0n3sVNwjM%3D%3A0",
+                "zip_type": "7z",
+                "bin_dir": "."
+            }
+        }
+    },
+    {
+        "id": "mti_gcc",
+        "name": "mips-mti-elf-gcc (Scratch/experimental build for mti-elf 20230510_0924) 11.2.0",
+        "resources": {
+            "win32": {
+                "url": "https://repo.oss.cipunited.com/mips-toolchain-cip/20230510/mips-mti-elf_2021.09-01-20230510-1830_windows_x64.7z",
                 "zip_type": "7z"
+            },
+            "linux": {
+                "url": "https://repo.oss.cipunited.com/mips-toolchain-cip/20230510/mips-mti-elf_2021.09-01-20230510-1610_linux_amd64.tar.xz",
+                "zip_type": "tar.xz"
             }
         }
     }
