@@ -186,11 +186,11 @@
         "name": "mips-mti-elf-gcc (Scratch/experimental build for mti-elf 20230510_0924) 11.2.0",
         "resources": {
             "win32": {
-                "url": "https://repo.oss.cipunited.com/mips-toolchain-cip/nightly/20230612/mips-mti-elf_2021.09-01-CIP-20230612_windows_amd64.7z",
+                "url": "https://repo.oss.cipunited.com/mips-toolchain-cip/nightly/20230629/mips-mti-elf_2021.09-01-CIP-20230629_windows_amd64.7z",
                 "zip_type": "7z"
             },
             "linux": {
-                "url": "https://repo.oss.cipunited.com/mips-toolchain-cip/nightly/20230612/mips-mti-elf_2021.09-01-CIP-20230612_linux_amd64.7z",
+                "url": "https://repo.oss.cipunited.com/mips-toolchain-cip/nightly/20230629/mips-mti-elf_2021.09-01-CIP-20230629_linux_amd64.7z",
                 "zip_type": "7z"
             }
         }
