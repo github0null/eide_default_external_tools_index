@@ -4,19 +4,19 @@
         "name": "JLink Device Addon Tool (Add chip support from cmsis package)",
         "resources": {
             "win32": {
-                "url": "https://cloud.github0null.io/api/v3/file/get/847/jlink-device-addon-0.1.8.zip?sign=uxS8dEUyjXnPPY1bObI8VKzlIY6EmwhBEATLRsou-2g%3D%3A0",
+                "url": "https://cloud.clcl.site/api/v3/file/get/847/jlink-device-addon-0.1.8.zip?sign=uxS8dEUyjXnPPY1bObI8VKzlIY6EmwhBEATLRsou-2g%3D%3A0",
                 "zip_type": "zip",
                 "bin_dir": "jlink-device-addon-0.1.8",
                 "post_install_cmd": "cd jlink-device-addon-0.1.8 && bash ./setup.sh"
             },
             "linux": {
-                "url": "https://cloud.github0null.io/api/v3/file/get/847/jlink-device-addon-0.1.8.zip?sign=uxS8dEUyjXnPPY1bObI8VKzlIY6EmwhBEATLRsou-2g%3D%3A0",
+                "url": "https://cloud.clcl.site/api/v3/file/get/847/jlink-device-addon-0.1.8.zip?sign=uxS8dEUyjXnPPY1bObI8VKzlIY6EmwhBEATLRsou-2g%3D%3A0",
                 "zip_type": "zip",
                 "bin_dir": "jlink-device-addon-0.1.8",
                 "post_install_cmd": "cd jlink-device-addon-0.1.8 && bash ./setup.sh"
             },
             "darwin": {
-                "url": "https://cloud.github0null.io/api/v3/file/get/847/jlink-device-addon-0.1.8.zip?sign=uxS8dEUyjXnPPY1bObI8VKzlIY6EmwhBEATLRsou-2g%3D%3A0",
+                "url": "https://cloud.clcl.site/api/v3/file/get/847/jlink-device-addon-0.1.8.zip?sign=uxS8dEUyjXnPPY1bObI8VKzlIY6EmwhBEATLRsou-2g%3D%3A0",
                 "zip_type": "zip",
                 "bin_dir": "jlink-device-addon-0.1.8",
                 "post_install_cmd": "cd jlink-device-addon-0.1.8 && bash ./setup.sh"
@@ -28,7 +28,7 @@
         "name": "Python 2.7.18 x86 Environment (32 Bit) (Only Available In VSCode)",
         "resources": {
             "win32": {
-                "url": "https://cloud.github0null.io/api/v3/file/get/825/python27-win32.7z?sign=r-050P73wJoM4olhWgTjWj5no42tlwLYRBCaleq3zL8%3D%3A0",
+                "url": "https://cloud.clcl.site/api/v3/file/get/825/python27-win32.7z?sign=r-050P73wJoM4olhWgTjWj5no42tlwLYRBCaleq3zL8%3D%3A0",
                 "zip_type": "7z",
                 "bin_dir": "python27"
             }
@@ -39,7 +39,7 @@
         "name": "Python 3.6.0 x64 Environment (64 Bit) (Only Available In VSCode)",
         "resources": {
             "win32": {
-                "url": "https://cloud.github0null.io/api/v3/file/get/867/python36-x64.7z?sign=bFt-ascqtohhYd2WEDBJhizMuOc8CZLhpsr4_RBWwRs%3D%3A0",
+                "url": "https://cloud.clcl.site/api/v3/file/get/867/python36-x64.7z?sign=bFt-ascqtohhYd2WEDBJhizMuOc8CZLhpsr4_RBWwRs%3D%3A0",
                 "zip_type": "7z",
                 "bin_dir": "python36-x64"
             }
@@ -50,7 +50,7 @@
         "name": "WCH xPack GNU RISC-V Embedded GCC 32-bit 8.2.0 (With WCH Libraries) (riscv-none-embed-gcc)",
         "resources": {
             "win32": {
-                "url": "https://cloud.github0null.io/api/v3/file/get/858/wch_riscv_8_2_0.7z?sign=rF8jK6urxPakr1PpsBvI9cNu_IsMBF50aYL1PufD9ns%3D%3A0",
+                "url": "https://cloud.clcl.site/api/v3/file/get/858/wch_riscv_8_2_0.7z?sign=rF8jK6urxPakr1PpsBvI9cNu_IsMBF50aYL1PufD9ns%3D%3A0",
                 "zip_type": "7z",
                 "bin_dir": "bin"
             }
@@ -133,7 +133,7 @@
         "name": "xPack GNU Arm Embedded GCC v10.3.1-2.3 (xpack-arm-none-eabi-gcc-10.3.1-2.3)",
         "resources": {
             "win32": {
-                "url": "https://cloud.github0null.io/api/v3/file/get/816/xpack-arm-none-eabi-gcc-10.3.1-2.3.7z?sign=q45K4AwgD8Bh-MisfCjT_YU8oR9BktJ09MNLrKfY5ms%3D%3A0",
+                "url": "https://cloud.clcl.site/api/v3/file/get/816/xpack-arm-none-eabi-gcc-10.3.1-2.3.7z?sign=q45K4AwgD8Bh-MisfCjT_YU8oR9BktJ09MNLrKfY5ms%3D%3A0",
                 "zip_type": "7z"
             }
         }
@@ -175,7 +175,7 @@
         "name": "COSMIC Software STM8 C Cross Compiler (Special Edition) V4.5.5",
         "resources": {
             "win32": {
-                "url": "https://cloud.github0null.io/api/v3/file/get/877/CXSTM8.7z?sign=gUgIVhPrgeAZqeD5mocejPvZ_NKtm8OeQb0n3sVNwjM%3D%3A0",
+                "url": "https://cloud.clcl.site/api/v3/file/get/877/CXSTM8.7z?sign=gUgIVhPrgeAZqeD5mocejPvZ_NKtm8OeQb0n3sVNwjM%3D%3A0",
                 "zip_type": "7z",
                 "bin_dir": "."
             }
