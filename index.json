@@ -123,7 +123,7 @@
         "name": "GNU Arm Embedded Toolchain 9-2019-q4-major 9.2.1 (arm-none-eabi-gcc)",
         "resources": {
             "win32": {
-                "url": "https://github0null.io/resources/gcc_arm_v9.2.1.7z",
+                "url": "https://clcl.site/resources/gcc_arm_v9.2.1.7z",
                 "zip_type": "7z"
             }
         }
@@ -143,7 +143,7 @@
         "name": "Silab Studio Simplicity Commander 1.13.1 (silab_flasher)",
         "resources": {
             "win32": {
-                "url": "https://github0null.io/resources/Silab_Studio_Commander_win32_x64_1v13p1b1154.7z",
+                "url": "https://clcl.site/resources/Silab_Studio_Commander_win32_x64_1v13p1b1154.7z",
                 "zip_type": "7z",
                 "bin_dir": "Simplicity_Commander"
             }
@@ -154,7 +154,7 @@
         "name": "Silab bgbuilder v1.7 (gattdb) (bgbuild)",
         "resources": {
             "win32": {
-                "url": "https://github0null.io/resources/silab_bgbuilder_v1.7.7z",
+                "url": "https://clcl.site/resources/silab_bgbuilder_v1.7.7z",
                 "zip_type": "7z",
                 "bin_dir": "silab_bgbuilder_v1.7"
             }
