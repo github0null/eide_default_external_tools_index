@@ -197,10 +197,21 @@
     },
     {
         "id": "armcc_v5_cracked",
-        "name": "Arm C Compiler V5.06 (Cracked)",
+        "name": "Arm C Compiler V5.06u7 (Cracked)",
         "resources": {
             "win32": {
                 "url": "https://ftp.clcl.site/resources/armcc_5.06u7_cracked.7z",
+                "zip_type": "7z",
+                "post_install_cmd": ".\\setup.bat"
+            }
+        }
+    },
+    {
+        "id": "armclang_v6_cracked",
+        "name": "Arm CLANG Compiler V6.22 x64 (Cracked)",
+        "resources": {
+            "win32": {
+                "url": "https://ftp.clcl.site/resources/armclang_v622_cracked.7z",
                 "zip_type": "7z",
                 "post_install_cmd": ".\\setup.bat"
             }
