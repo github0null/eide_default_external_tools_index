@@ -200,7 +200,7 @@
         "name": "Arm C Compiler V5.06 (Cracked)",
         "resources": {
             "win32": {
-                "url": "https://ftp.clcl.site/resources/armcc_cracked_5.06u7.7z",
+                "url": "https://ftp.clcl.site/resources/armcc_5.06u7_cracked.7z",
                 "zip_type": "7z",
                 "post_install_cmd": ".\\setup.bat"
             }
