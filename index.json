@@ -1,5 +1,16 @@
 [
     {
+        "id": "stlink_gdb_server",
+        "name": "STLink GDB Server",
+        "resources": {
+            "win32": {
+                "url": "https://em-ide.com/resource/st-tools/STLink-gdb-server.7z",
+                "zip_type": "7z",
+                "bin_dir": "bin"
+            }
+        }
+    },
+    {
         "id": "jlink_dev_addon",
         "name": "JLink Device Addon Tool (Add chip support from cmsis package)",
         "resources": {
