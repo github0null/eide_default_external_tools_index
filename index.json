@@ -35,7 +35,7 @@
         }
     },
     {
-        "id": "wch_riscv_gcc_8_2_0",
+        "id": "wch_riscv_gcc_v8",
         "name": "WCH xPack GNU RISC-V Embedded GCC 32-bit 8.2.0 (With WCH Libraries) (riscv-none-embed-gcc)",
         "resources": {
             "win32": {
@@ -46,7 +46,7 @@
         }
     },
     {
-        "id": "mps430_gcc_v9_3_1",
+        "id": "mps430_gcc_v9",
         "name": "Mitto Systems Limited - msp430-gcc 9.3.1.11 (msp430-elf-gcc)",
         "resources": {
             "win32": {
@@ -68,7 +68,7 @@
         }
     },
     {
-        "id": "avr_gcc_2010",
+        "id": "avr_gcc_v4",
         "name": "WinAVR 20100110 4.3.3 (avr-gcc)",
         "resources": {
             "win32": {
@@ -78,7 +78,7 @@
         }
     },
     {
-        "id": "gcc_arm_v4_9",
+        "id": "gcc_arm_v4",
         "name": "GNU Arm Embedded Toolchain 4_9-2015-q3-update 4.9 (arm-none-eabi-gcc)",
         "resources": {
             "win32": {
@@ -88,17 +88,7 @@
         }
     },
     {
-        "id": "gcc_arm_v5_4",
-        "name": "GNU Arm Embedded Toolchain 5_4-2016-q3-update 5.4 (arm-none-eabi-gcc)",
-        "resources": {
-            "win32": {
-                "url": "https://launchpadlibrarian.net/287101634/gcc-arm-none-eabi-5_4-2016q3-20160926-win32.zip",
-                "zip_type": "zip"
-            }
-        }
-    },
-    {
-        "id": "gcc_arm_v7_3_1",
+        "id": "gcc_arm_v7",
         "name": "GNU Arm Embedded Toolchain 7-2018-q2-update 7.3.1 (arm-none-eabi-gcc)",
         "resources": {
             "win32": {
@@ -108,22 +98,23 @@
         }
     },
     {
-        "id": "gcc_arm_v9_2_1",
-        "name": "GNU Arm Embedded Toolchain 9-2019-q4-major 9.2.1 (arm-none-eabi-gcc)",
+        "id": "gcc_arm_v10",
+        "name": "GNU Arm Embedded Toolchain 10.3-2021.10 (arm-none-eabi-gcc)",
         "resources": {
             "win32": {
-                "url": "https://clcl.site/resources/gcc_arm_v9.2.1.7z",
-                "zip_type": "7z"
+                "url": "https://clcl.site/resources/gcc_for_arm/gcc-arm-none-eabi-10.3-2021.10-win32.zip",
+                "zip_type": "zip",
+                "bin_dir": "gcc-arm-none-eabi-10.3-2021.10"
             }
         }
     },
     {
-        "id": "xpack_gcc_arm_v10_3_1",
-        "name": "xPack GNU Arm Embedded GCC v10.3.1-2.3 (xpack-arm-none-eabi-gcc-10.3.1-2.3)",
+        "id": "gcc_arm_v15",
+        "name": "GNU Arm Embedded Toolchain 15.2.Rel1 (arm-none-eabi-gcc)",
         "resources": {
             "win32": {
-                "url": "https://cloud.clcl.site/api/v3/file/get/816/xpack-arm-none-eabi-gcc-10.3.1-2.3.7z?sign=q45K4AwgD8Bh-MisfCjT_YU8oR9BktJ09MNLrKfY5ms%3D%3A0",
-                "zip_type": "7z"
+                "url": "https://clcl.site/resources/gcc_for_arm/arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi.zip",
+                "zip_type": "zip"
             }
         }
     },
