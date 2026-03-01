@@ -102,9 +102,8 @@
         "name": "GNU Arm Embedded Toolchain 10.3-2021.10 (arm-none-eabi-gcc)",
         "resources": {
             "win32": {
-                "url": "https://clcl.site/resources/gcc_for_arm/gcc-arm-none-eabi-10.3-2021.10-win32.zip",
-                "zip_type": "zip",
-                "bin_dir": "gcc-arm-none-eabi-10.3-2021.10"
+                "url": "https://clcl.site/resources/gcc_for_arm/gcc-arm-none-eabi-10.3-2021.10.7z",
+                "zip_type": "7z"
             }
         }
     },
