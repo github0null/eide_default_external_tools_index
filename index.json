@@ -15,19 +15,19 @@
         "name": "JLink Device Addon Tool (Add chip support from cmsis package)",
         "resources": {
             "win32": {
-                "url": "https://em-ide.com/resource/jlink-device-addon-0.1.9.zip",
+                "url": "https://em-ide.com/resource/jlink-device-addon-v0.1.9.zip",
                 "zip_type": "zip",
                 "bin_dir": "jlink-device-addon-0.1.9",
                 "post_install_cmd": "cd jlink-device-addon-0.1.9 && bash ./setup.sh"
             },
             "linux": {
-                "url": "https://em-ide.com/resource/jlink-device-addon-0.1.9.zip",
+                "url": "https://em-ide.com/resource/jlink-device-addon-v0.1.9.zip",
                 "zip_type": "zip",
                 "bin_dir": "jlink-device-addon-0.1.9",
                 "post_install_cmd": "cd jlink-device-addon-0.1.9 && bash ./setup.sh"
             },
             "darwin": {
-                "url": "https://em-ide.com/resource/jlink-device-addon-0.1.9.zip",
+                "url": "https://em-ide.com/resource/jlink-device-addon-v0.1.9.zip",
                 "zip_type": "zip",
                 "bin_dir": "jlink-device-addon-0.1.9",
                 "post_install_cmd": "cd jlink-device-addon-0.1.9 && bash ./setup.sh"
