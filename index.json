@@ -1,7 +1,7 @@
 [
     {
         "id": "srecord",
-        "name": "The SRecord package is a collection of powerful tools for manipulating EPROM load files. (src_cat v1.65.0)",
+        "name": "The SRecord package is a collection of powerful tools for manipulating EPROM load files. (srec_cat v1.65.0)",
         "resources": {
             "win32": {
                 "url": "https://em-ide.com/resource/srecord-1.65.0-win64.zip",
