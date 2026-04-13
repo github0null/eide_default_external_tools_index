@@ -1,5 +1,16 @@
 [
     {
+        "id": "srecord",
+        "name": "The SRecord package is a collection of powerful tools for manipulating EPROM load files. (src_cat v1.65.0)",
+        "resources": {
+            "win32": {
+                "url": "https://em-ide.com/resource/srecord-1.65.0-win64.zip",
+                "zip_type": "zip",
+                "bin_dir": "srecord-1.65.0-win64/bin"
+            }
+        }
+    },
+    {
         "id": "stlink_gdb_server",
         "name": "STLink GDB Server",
         "resources": {
